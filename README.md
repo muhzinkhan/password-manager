@@ -6,13 +6,15 @@
 
 ## Overview
 
-The Password Manager is a secure and user-friendly Windows application built using Python and the TKinter GUI library. It allows users to store and manage their passwords in an encrypted database, providing a convenient and safe solution for password management.
+The Password Manager is a user-friendly Windows application built 
+using Python and the TKinter GUI library. It allows users to store and manage 
+their passwords, providing a convenient and safe solution for 
+password management without any signups or prerequisites.
 
 ## Features
 
 - Securely store and retrieve passwords for various accounts.
 - Generate strong and random passwords for new accounts.
-- Encrypted database to protect sensitive information.
 - Easy-to-use interface for seamless password management.
 
 ## Requirements
