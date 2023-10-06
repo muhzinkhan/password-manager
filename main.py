@@ -112,13 +112,14 @@ def save():
                 password_entry.delete(0, END)
 
 
-# ---------------------------- UI S1 SETUP ------------------------------- #
+# ---------------------------- UI SETUP ------------------------------- #
 
 app = customtkinter.CTk()
-# app.geometry("720x480")
 app.title("App Manager")
+app.geometry("575x485 ")
+app.resizable(False, False)
 app.config(padx=50, pady=50)
-
+app.iconbitmap('assets/password_manager_icon.ico')
 
 # -------Center Logo-------
 
